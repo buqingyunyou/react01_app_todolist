@@ -1,5 +1,5 @@
 {
-  "name": "hello",
+  "name": "react01_app_todolist",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
